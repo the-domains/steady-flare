@@ -1,0 +1,14 @@
+layout_spectrum: 0.8726117990445346
+typography_spectrum: 0.1414615036919713
+color:
+  brandStrength: 0.5650900383479893
+  lightness: 0.4085139047820121
+  saturation: 0.5601317300461233
+  rhythmicContrast: 0.06930318451486528
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Steady Flare
