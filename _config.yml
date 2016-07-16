@@ -6,9 +6,9 @@ color:
   saturation: 0.5601317300461233
   rhythmicContrast: 0.06930318451486528
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Steady Flare
